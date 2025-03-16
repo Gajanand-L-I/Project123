@@ -1,4 +1,4 @@
 # Project123
 This is my first Repository
 <br>
-Author-Gajanand (Hi follo my instruction)
+Author-Gajanand (Hi follow my instruction)
